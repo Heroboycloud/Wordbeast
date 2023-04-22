@@ -1,0 +1,15 @@
+Print All Credits Blah...blah
+give User Explain
+Input Name
+Input Other Name
+Input Another Name Until...
+Input Birthyear
+Input Phone Numbers
+Ok A Cool Commencement...
+
+open Password.txt Or Any Name User Prefer...
+Save All the Phone Numbers First
+save All the Names
+save (Name +birthyear)[for All Names]
+save (Name + (range Of Numbers from 01 to 9999)).
+That's Okay
